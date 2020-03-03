@@ -18,3 +18,12 @@ API = https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=fals
 - Please submit your test to us in a format that lets us execute and review the code
 - Please note that your test should validate all the three acceptance criteria
 - Points will be awarded for meeting the criteria, style and the use of good practices
+
+#### How 2 execute
+
+Execute the following commands in you favorite terminal that is pointed to the project folder
+
+```bash
+npm install
+npm test
+```
